@@ -1,5 +1,5 @@
-module github.com/axiomis-labs/go-bip39
+module github.com/tyler-smith/go-bip39
 
-go 1.26.3
+go 1.14
 
-require golang.org/x/crypto v0.48.0
+require golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
